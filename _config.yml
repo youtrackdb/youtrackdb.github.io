@@ -1,6 +1,6 @@
 # Theme settings
 doks:
-    baseurl: /
+    baseurl: 
     url: https://youtrackdb.github.io
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
