@@ -23,7 +23,6 @@ doks:
 
 # SASS settings
 sass:
-    sass_dir: doks-theme/_sass
     style: compressed
 
 # Jekyll settings
