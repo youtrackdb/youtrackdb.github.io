@@ -1,7 +1,6 @@
 # Theme settings
 doks:
     baseurl: 
-    url: https://youtrackdb.github.io
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -36,7 +35,7 @@ doks:
 
 # SASS settings
 sass:
-    sass_dir: ./doks-theme/_sass
+    sass_dir: doks-theme/_sass
     style: :compressed
 
 # Jekyll settings
