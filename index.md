@@ -36,7 +36,7 @@ grid_navigation:
       url: 'https://github.com/youtrackdb/youtrackdb'  
       external_url: true
     - title: 'Prototype to EE: Zero Effort'  
-      excerpt: YouTrackDB works in schema-less, schema-mixed, and schema-full modes. Universal API allowing you to port your database to a server environment without changing your application code.
+      excerpt: YouTrackDB works in schema-less, schema-mixed, and schema-full modes. Universal API allows you to port your database to a server environment without changing your application code.
       cta: Let's try it
       url: 'https://github.com/youtrackdb/youtrackdb'  
       external_url: true
