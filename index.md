@@ -11,7 +11,7 @@ keywords:
     - 'orientdb'
 # Hero section
 title: YouTrackDB
-description: One-stop entity store for your application development.
+description: One-stop object-oriented graph database for your application development.
 buttons:
     - icon: github
       content: Get started
