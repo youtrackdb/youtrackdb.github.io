@@ -18,8 +18,6 @@ doks:
               profile_url: 'https://github.com/youtrackdb/youtrackdb'
             - network_name: twitter
               profile_url: 'https://x.com/youtrackdb'
-            - network_name: facebook
-              profile_url: 'https://www.facebook.com/profile.php?id=61571160061177'  
             - network_name: medium
               profile_url: 'https://medium.com/@youtrackdb'  
   
