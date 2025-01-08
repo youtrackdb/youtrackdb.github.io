@@ -19,7 +19,9 @@ doks:
             - network_name: twitter
               profile_url: 'https://x.com/youtrackdb'
             - network_name: medium
-              profile_url: 'https://medium.com/@youtrackdb'  
+              profile_url: 'https://medium.com/@youtrackdb'
+            - network_name: facebook
+              profile_url: 'https://www.facebook.com/youtrackdb'    
   
     google_analytics:
         tracking_code: #G-PV9W92HTXL
