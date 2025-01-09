@@ -2,12 +2,13 @@
 # Page settings
 layout: homepage
 keywords:
-    - 'entity store'
     - 'graph database'
+    - 'graphdb'
+    - 'graphdatabase'
+    - 'object database'
+    - 'object-oriented database'
     - 'document database'
-    - 'dbms'
-    - 'no sql'
-    - 'database'
+    - 'embedded database'
     - 'orientdb'
 # Hero section
 title: YouTrackDB
