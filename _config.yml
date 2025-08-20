@@ -16,12 +16,10 @@ doks:
         social_list:
             - network_name: github
               profile_url: 'https://github.com/youtrackdb/youtrackdb'
-            - network_name: twitter
-              profile_url: 'https://x.com/youtrackdb'
+            - network_name: reddit
+              profile_url: 'https://www.reddit.com/r/youtrackdb/'
             - network_name: medium
               profile_url: 'https://medium.com/@youtrackdb'
-            - network_name: facebook
-              profile_url: 'https://www.facebook.com/youtrackdb'    
   
     google_analytics:
         tracking_code: #G-PV9W92HTXL

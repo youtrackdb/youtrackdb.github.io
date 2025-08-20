@@ -10,7 +10,9 @@ keywords:
     - 'document database'
     - 'embedded database'
     - 'encryption at rest'
-    - 'GQL'
+    - 'TinkerPop'
+    - 'Lucene'
+    - 'Gremlin query language'
 # Hero section
 title: YouTrackDB
 description: One-stop object-oriented graph database for your application development supported by YouTrack project.
