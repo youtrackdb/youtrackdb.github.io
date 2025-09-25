@@ -15,7 +15,7 @@ doks:
             copyright: Copyright &copy; JetBrains s.r.o. 2025 - YouTrackDB <br>All rights reserved.
         social_list:
             - network_name: github
-              profile_url: 'https://github.com/youtrackdb/youtrackdb'
+              profile_url: 'https://github.com/JetBrains/youtrackdb'
             - network_name: reddit
               profile_url: 'https://www.reddit.com/r/youtrackdb/'
             - network_name: medium
